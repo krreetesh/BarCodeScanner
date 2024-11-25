@@ -1,0 +1,2 @@
+# BarCodeScanner
+React Native App
